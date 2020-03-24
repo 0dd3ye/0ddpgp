@@ -1,0 +1,18 @@
+0ddpgp installation readme:
+
+0ddpgp has a few prerequisites, if you don't have them, the installation script will tell you.
+
+
+To run the installation script, enter the following command:
+
+sudo ./0ddPGP_installation.sh
+
+The installation script needs to run as root which is why the command sudos. The installation involves folders that require root permissions.
+
+I'm pretty sure I've dummy proofed this, but that was the famous last words of my programming teacher so if you run into any problems, tell the developer 0dd3ye
+
+After it runs, it will give you instructions. If it gives you errors, something is wrong. After reading the instructions, read the new README in the new 0ddpgp folder at /usr/lib/0ddPGP/README.
+
+
+
+

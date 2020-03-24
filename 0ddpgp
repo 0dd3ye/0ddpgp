@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python /usr/lib/0ddPGP/0dd3yePGP.py $1
